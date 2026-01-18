@@ -1,0 +1,9 @@
+{
+  "name": "safedev-demo-repo",
+  "version": "1.0.0",
+  "private": true,
+  "debug": true,
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
